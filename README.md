@@ -18,5 +18,5 @@ Limbo x86 PC Emulator (se não quiser sofrer com QEMU no Termux)
 Termux + QEMU (headless ou X11 (se quiser sofrer mesmo))
 
 # Copyright:
-_© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios
+_© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios™
 _© 2019-2025 TGF! Studios™_
