@@ -25,6 +25,9 @@ IBM PC/AT (Modelo 5170)
 
 COMPAQ DeskPro 386
 
+# Deseja testar em hardware real e não possui disco rígido?
+Insira o disquete do Kat#B16es no drive A, depois da inicialização, remova o disquete e insira outro com um programa suportado e pressione ENTER (caso ocorra um erro, pressione novamente, os dois PCs testados tiveram esse problema por não possuírem um disco rígido).
+
 # Copyright
 _© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios™
 
