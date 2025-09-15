@@ -6,6 +6,8 @@ _CPU_: Intel 8086 ou compatível
 
 _RAM_: _640K_
 
+Disco rígido (que seja maior que 1.44MB, mesmo que não existam, eu acho)
+
 Drive de disquete 3.5" (_1.44MB_)
 
 Monitor compatível com modo texto _80x25_
