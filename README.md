@@ -21,7 +21,7 @@ Termux + QEMU (headless ou X11 (se quiser sofrer mesmo))
 Defina `ktb16.img` como Hard Disk A e coloque seu programa no drive de disquete A.
 
 # PCs testados:
-IBM PC/XT
+IBM PC/AT (Modelo 5170)
 
 # Copyright
 _© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios™
