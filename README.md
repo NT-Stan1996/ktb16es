@@ -1,5 +1,5 @@
 # Kat#B16es
-O _Kat#B16es_ é um sistema operacional de entretenimento para computadores (**não testado em hardware real**) com Intel 8086.
+O _Kat#B16es_ é um sistema operacional de entretenimento para computadores com Intel 8086.
 
 # Requisitos mínimos
 _CPU_: Intel 8086 ou compatível
@@ -19,6 +19,9 @@ Termux + QEMU (headless ou X11 (se quiser sofrer mesmo))
 
 # Para o Limbo x86:
 Defina `ktb16.img` como Hard Disk A e coloque seu programa no drive de disquete A.
+
+# PCs testados:
+IBM PC/XT
 
 # Copyright
 _© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios™
