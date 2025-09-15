@@ -18,7 +18,7 @@ Limbo x86 PC Emulator (se não quiser sofrer com QEMU no Termux)
 Termux + QEMU (headless ou X11 (se quiser sofrer mesmo))
 
 # Para o Limbo x86:
-Defina `ktb16.img` como Hard Disk A e coloque seu programa no drive A.
+Defina `ktb16.img` como Hard Disk A e coloque seu programa no drive de disquete A.
 
 # Copyright
 _© 2024-2025 Neko Interactive Systems™_ - Subsidiária da TGF! Studios™
